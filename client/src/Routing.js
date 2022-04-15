@@ -7,8 +7,6 @@ import BC from "./Disease Components/BC";
 import CK from "./Disease Components/CK";
 import AL from "./Disease Components/AL";
 
-import "./Routing.css";
-
 const Routing = () => {
   return (
     <Router>
